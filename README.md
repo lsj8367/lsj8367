@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-R-blue"/>
   <br>
   <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring Framework-orange"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
