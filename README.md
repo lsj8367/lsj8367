@@ -16,14 +16,15 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">My Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-MariaDB-navy"/>
   <img src="https://img.shields.io/badge/-R-blue"/>
   <br>
   <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring Framework-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Html/css-green"/>
   <br>
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
