@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">•••</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj8367&layout=compact)](https://github.com/lsj8367/github-readme-stats)
 
