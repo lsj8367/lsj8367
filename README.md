@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-navy"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
