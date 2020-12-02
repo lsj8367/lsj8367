@@ -14,10 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  <img src="https://img.shields.io/badge/-PYHTON-blue"/>
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+<h3 align="center">📚 Technology Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-navy"/>
   <br>
-  <img src="https://img.shields.io/badge/-Django-blue"/>
+  <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Flask-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nodejs-yellow"/>
+  <img src="https://img.shields.io/badge/-Vuejs-yellow"/>
+  <br>
+  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+</p>
+
+<h3 align="center">•••</h3>
