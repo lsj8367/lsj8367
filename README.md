@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center">📚 My Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
