@@ -28,5 +28,6 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
-
+<!--
 <h3 align="center">•••</h3>
+-->
