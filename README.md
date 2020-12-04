@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Django-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring Framework-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Html/css-green"/>
+  <img src="https://img.shields.io/badge/-Node.js-yellow"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
