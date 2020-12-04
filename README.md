@@ -1,7 +1,7 @@
 ### 👋 Hi there 👋
 
 <p align="center">
-  I'm interested in back-end development.
+  <b>I'm interested in back-end development.</b>
 </p>
 
 <!--
