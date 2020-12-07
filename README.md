@@ -2,8 +2,9 @@
 <!--
 ✨🔭🌱 👯🤔 💬📫 😄 ⚡ 
 -->
-<p align="left">
-  ### Hi there 😄 <h3><b>I'm interested in back-end development.</b></h3>
+### Hi there 😄 
+<p align="center">
+  <h3><b>I'm interested in back-end development.</b></h3>
 </p>
 <h3 align="center">My Technology Stack 📚</h3>
 <p align="center">
