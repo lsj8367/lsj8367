@@ -1,8 +1,5 @@
 ### 👋 Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj8367)](https://github.com/lsj8367/github-readme-stats)
-<p align="center">
-  <b>I'm interested in back-end development.</b>
-</p>
 
 <!--
 **lsj8367/lsj8367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">My Technology Stack 📚</h3>
-<p align="center">
+<p align="left">
+  <b>I'm interested in back-end development.</b>
+</p>
+<h3 align="left">My Technology Stack 📚</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 <!--
-<h3 align="center">•••</h3>
+<h3 align="left">•••</h3>
 -->
 
