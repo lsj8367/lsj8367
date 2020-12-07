@@ -4,9 +4,7 @@
 ✨🔭🌱 👯🤔 💬📫 😄 ⚡ 
 -->
 
-<p align="center">
-  <b>I'm interested in back-end development.</b>
-</p>
+<h3 align="center"><b>I'm interested in back-end development.</b></h3>
 <br>
 <h3 align="center">My Technology Stack 📚</h3>
 <p align="center">
