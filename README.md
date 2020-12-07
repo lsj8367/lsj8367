@@ -1,5 +1,6 @@
 ### Hi there 😄 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj8367&layout=compact)](https://github.com/lsj8367/github-readme-stats)
+![lsj8367's github stats](https://github-readme-stats.vercel.app/api?username=lsj8367&show_icons=true&theme=radical)
 <!--
 ✨🔭🌱 👯🤔 💬📫 😄 ⚡ 
 -->
