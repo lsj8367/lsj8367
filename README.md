@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <b>I'm interested in back-end development.</b>
+  <h3><b>I'm interested in back-end development.</b></h3>
 </p>
-<h3 align="left">My Technology Stack 📚</h3>
-<p align="left">
+<h3 align="center">My Technology Stack 📚</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
@@ -34,6 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
 <!--
-<h3 align="left">•••</h3>
+<h3 align="center">•••</h3>
 -->
 
