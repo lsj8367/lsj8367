@@ -5,7 +5,6 @@
 -->
 
 <h3 align="center"><b>I'm interested in back-end development.</b></h3>
-<br>
 <h3 align="center">My Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
