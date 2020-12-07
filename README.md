@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <h3><b>I'm interested in back-end development.</b></h3>
+  <b>I'm interested in back-end development.</b>
 </p>
 <br>
 <h3 align="center">My Technology Stack 📚</h3>
