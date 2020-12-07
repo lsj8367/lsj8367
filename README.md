@@ -1,5 +1,4 @@
 ### 👋 Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj8367)](https://github.com/lsj8367/github-readme-stats)
 <p align="center">
   <b>I'm interested in back-end development.</b>
 </p>
@@ -33,6 +32,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
 </p>
-
+<!--
 <h3 align="center">•••</h3>
-
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj8367)](https://github.com/lsj8367/github-readme-stats)
