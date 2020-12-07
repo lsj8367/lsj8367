@@ -1,13 +1,13 @@
+### Hi there 😄 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj8367)](https://github.com/lsj8367/github-readme-stats)
 <!--
 ✨🔭🌱 👯🤔 💬📫 😄 ⚡ 
 -->
-<center>
-### Hi there 😄 
-</center>
+
 <p align="center">
   <h3><b>I'm interested in back-end development.</b></h3>
 </p>
+<br>
 <h3 align="center">My Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
