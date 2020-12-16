@@ -34,7 +34,7 @@ git pull --rebase { 원격 저장소 별명 } { 브랜치명 }  origin master
 git branch -a 별칭확인
 git checkout [브랜치 이름]  브랜치 변경
 git branch [브랜치명]      브랜치 생성
-
+git branch -d 브랜치명
 
 원격 저장소 삭제
 git rm --cached Practice.java 
