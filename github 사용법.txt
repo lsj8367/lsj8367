@@ -69,3 +69,15 @@ git
 gitignore 안쓰고 무시하는법
 $ git update-index --assume-unchanged [파일명]
 
+branch 협업
+branch 변경 git checkout 브랜치명
+원격 저장소를 만들고 나머지 멤버 git clone URL주소
+git branch 생성해서 나눔
+서로 다른 작업을 수행하는데 작업이 완료되었다면,
+git add '파일명'
+git commit -m "수정(입력)사항 입력"
+
+git checkout master << 마스터브랜치로 이동
+git merge 자신의 브랜치명 << master브랜치와 병합
+merge 후에 새로운 파일이 master브랜치에 있을경우
+git pull origin master 해서 최신것을 받아온다.
