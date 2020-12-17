@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/-Node.js-yellow"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-jQuery-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Ajax-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Mybatis-orange"/>&nbsp
 </p>
 <!--
 <h3 align="center">•••</h3>
