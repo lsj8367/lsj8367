@@ -6,8 +6,8 @@
 ✨🔭🌱 👯🤔 💬📫 😄 ⚡ 
 -->
 
-<h3 align="center">My Technology Stack 📚</h3>
-<p align="center">
+<h3 align="left">My Technology Stack 📚</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-PYHTON-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
