@@ -1,0 +1,4 @@
+#Ignore everything in target folder 모든폴더 무시
+/workspace/*
+#Don't ignore jar 모든폴더 무시중에 이것만 제외시키고 싶다.
+!/workspace/team3project/
