@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/-jQuery-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Ajax-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-Mybatis-orange"/>&nbsp
+  <img src="https://img.shields.io/badge/-MongoDB-red"/>&nbsp
 </p>
 <!--
 <h3 align="center">•••</h3>
