@@ -54,14 +54,5 @@ mysql -u root -h localhost -p
 123
 마리아db 접속 똑같음
 
-카페에서 mariadb 붙여넣기 http://cafe.daum.net/flowlife/HqLk/63
-
-
-linux1_이승재.png
-mariadb 창에서
-부서별 인원수 출력 sql문 적고 결과화면 저장
-
-linux2_이승재.png
-이클립스에서 부서별 인원수 결과 출력
-
+chmod 777 파일명 -> 파일권한바꾸기.
 
