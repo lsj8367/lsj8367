@@ -13,6 +13,8 @@ root는 su - 만 쳐도 가능
 
 관리자권한으로 명령 yum
 yum -y install java-11-openjdk-devel    devel써줘야 jre까지 다 다운받게됨.
+yum remove java-11-openjdk-devel 삭제명령
+yum -y install java-1.8.0-openjdk-devel
 
 ls -al /etc/alternatives/java 자바파일 위치
 
