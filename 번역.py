@@ -11,7 +11,7 @@ import urllib.request
 import json
 client_id = "ysnDNp6NQiZonIqc5q5f" # 개발자센터에서 발급받은 Client ID 값
 client_secret = "OyW27rpluA" # 개발자센터에서 발급받은 Client Secret 값
-encText = urllib.parse.quote("어케번역하누")
+encText = urllib.parse.quote("안녕")
 
 data = "source=ko&target=en&text=" + encText
 url = "https://openapi.naver.com/v1/papago/n2mt"
