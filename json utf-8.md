@@ -21,15 +21,14 @@ public class ApiControllerTest {
     }
 
     @Test
-    public void 상품검색() throws Exception {
+    public void aaa() throws Exception {
         String keyword = "sports";
 
         MvcResult result = this.mockMvc
                 .perform(
                         get("/api/search/" + keyword)
                 )
-                .andExpect(status().isOk())
-                .andExpect(어쩌구 Matcher...);
+                .andExpect(status().isOk());
     }
 }
 ```
@@ -38,14 +37,12 @@ public class ApiControllerTest {
 
 ```java
     @Test
-    public void 상품검색() throws Exception {
+    public void aaa() throws Exception {
         String keyword = "스포츠";  // 한글 사용
 
         MvcResult result = this.mockMvc
                 .perform(get("/api/search/" + keyword))
-                .andExpect(status().isOk())
-                .andExpect(어쩌구 Matcher...)
-                .andReturn();
+                .andExpect(status().isOk());
     }
 ```
 
