@@ -1,9 +1,0 @@
-아나콘다 파이썬 urllib 오류 해결방법
-
-1) "아나콘다경로/Library/bin/" 경로로 이동
-2) 아래 네 가지 파일들을 복사
-libcrypto-1_1-x64.dll
-libssl-1_1-x64.dll
-libcrypto-1_1-x64.pdb
-libssl-1_1-x64.pdb
-3) "아나콘다경로/DLLs/" 경로에 붙여넣기

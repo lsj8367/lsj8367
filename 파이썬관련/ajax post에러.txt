@@ -1,0 +1,17 @@
+ajax post 전송시 참 애를 먹었는데
+django로 넘기다보니
+
+csrf 토큰 ajax post fobbiden 403 에러를 반납한다.
+@csrf_exempt 를 요청받는 함수에 선언해준다.
+
+Maximum call stack size exceeded 해결법
+submit이 click function안에 들어가서 무한으로 반복되서 스택이 가득차게 됨.
+
+근데 이것들을 해도 해결이 안되는데 당연한 것이었다.
+form태그를 전송할때 그냥 button의 submit으로 데이터를 넘기는게 아닌
+ajax로 데이터를 넘겼어야했는데 이중으로 넘기다보니 parsing이 되지않고 그냥 문자열을 반환해준것이다.
+그래서 수정한것은
+
+버튼은 그냥 click기능만 주고
+data : $("#frm").serialize()를 사용해서 data를 json으로 씌워서 파이썬 서버로 보내준다.
+그러면 해결된다.

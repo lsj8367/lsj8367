@@ -1,0 +1,60 @@
+관리자 계정으로 들어가는법
+su - root
+비밀번호 : 1234
+
+pwd 현재경로
+
+ls .a >> 숨김폴더까지 전체 표시 + 파일에대한 권한표시 이름앞에 .붙어있는 파일들이 숨김파일
+.al > 위의 기능을 리스트형식으로 보여줌
+
+su - 계정명 : 관리자로 사용자를 바꾸는것
+빠져나오려면 logout
+root는 su - 만 쳐도 가능
+
+관리자권한으로 명령 yum
+yum -y install java-11-openjdk-devel    devel써줘야 jre까지 다 다운받게됨.
+yum remove java-11-openjdk-devel 삭제명령
+yum -y install java-1.8.0-openjdk-devel
+
+ls -al /etc/alternatives/java 자바파일 위치
+
+shift + space 한영 전환
+
+mkdir work
+
+파일이동 mv ../다운로드/eclipse ㅇㅇㅇ   ./ > 현재 디렉토리로 가져온다.
+
+tar xvfz 파일명 압축풀기
+
+./파일명 << 현재 폴더에서 파일명을 실행하겠다.
+
+가상환경은 실행이가능한데 원격으로 붙으면 터미널화면만 보인다.
+
+화면 깨끗하게 clear
+
+종료하려면 exit
+
+MariaDB======
+
+yum install mariadb mariadb-server 설치
+
+systemctl status mariadb.service 서비스 확인
+systemctl start mariadb.service 서비스 시작
+
+systemctl enable mariadb.service 완전동작하게
+
+mysql -u root 마리아db 조작명령어 여기는 똑같음
+
+use mysql
+비밀번호설정 update user set password=password('123') where user = 'root';
+flush privileges; 마스터에 정보 주입
+
+exit; 나가기
+systemctl restart mariadb.service 적용시키려고 재시작
+
+mysql -u root -h localhost -p
+123
+마리아db 접속 똑같음
+
+chmod 777 파일명 -> 파일권한바꾸기.
+

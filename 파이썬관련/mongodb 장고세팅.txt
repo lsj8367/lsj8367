@@ -1,0 +1,28 @@
+몽고db
+
+from pymongo import MongoClient
+
+# DB접속 구현
+
+def get_db_handle(db_name, host, port):
+    client = MongoClient(host=host,
+                         port=int(port),
+                        )
+    db_handle = client[db_name]
+    return db_handle, client
+
+
+def get_collection_handle(db_handle, collection_name):
+    return db_handle[collection_name]
+
+views.py
+
+db_handle, mongo_client = get_db_handle('testdb', 'localhost', '27017')
+# testdb 는 데이터베이스명 주소 localhost 자기주소 27017이 기본 포트번호
+
+conn = get_collection_handle(db_handle, 'testdb') # 여기서 test_db는 collections이므로 table과 같음.
+        # 사용하려면  conn.find or insert delete update 가능
+        
+        #data = conn.find({'도시' : '충주'}) # 도시가 충주인것 찾음
+        data = conn.find_one() # 한개만 찾을때
+        print(data)
