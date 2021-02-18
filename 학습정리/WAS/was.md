@@ -5,7 +5,7 @@
 웹 서버와 DBMS 사이에서 동작하는 미들웨어로서 컨테이너 기반으로 동작한다.
 
 ## 2. WEB서버와 WAS의 동작 과정
-![web,was동작과정](./학습정리/WAS/image1.png)
+![image1](https://user-images.githubusercontent.com/74235102/108307188-da179380-71f0-11eb-8a30-616f64001845.PNG)
 
 ## 3. WEB 서버와 WAS의 차이점
 * 요청을 받아 처리하는 컨텐츠의 차이
