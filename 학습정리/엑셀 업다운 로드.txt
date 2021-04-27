@@ -1,0 +1,78 @@
+관망관리 시스템 접속
+맨 왼쪽 메뉴를 선택
+단계별 블록을 선택
+하면 
+
+Aset = 실시간 데이터 추세분석
+Bset = 유수율/누수량 추세분석
+Cset = 평균수압-누수량 발생경향 분석
+
+엑셀로 저장 클릭
+
+해당 jsp 내의 Excel저장 의 함수 fn_excelDownloadFor + xxxx(); 를 호출하는데
+그것은 xxxx.js 파일에 있다.
+
+trendA,B,C data들은 기존의 A,B,Cset의 jqgrid jsp 테이블 값을 고스란히 가져와서
+updateA,B,C Array에 푸시해준다.
+
+그 후======
+
+updateA,B,C set을 paramDataset에 dict타입으로 {Aset : Aset, Bset : Bset, Cset : Cset};
+형식으로 넣어주고
+
+common.js에 fn_excelDownload()를 수행한다 (공통)
+
+url은 현재 페이지의 .do를 제거하고 그 마지막 부분에 /excelDownload.do 를 매칭시킨 후  <<<< AJAX 호출
+hidden으로 보이는 systemcode, blocklevel, menuName 을 또다시 paramDataset에 넣어주고
+title과 기간이 있다면 기간을 설정해줘서 yyyymmDD형식의 title_yyyyMMdd 형식으로 excel 이름을 설정해놓는다.
+
+그 후에
+Ajax 호출을 하여 위에 AJAX 호출이라는 url 주소를 가지고 data는 paramDataset을 String 형식으로 파싱 후에 넘겨줘서 post
+방식으로 json 을 넘겨준다.
+
+java단의 Controller로 오게되면 url/excelDownload.do @RequestMapping 된 곳으로 오게되고
+excelDownload를 수행하게된다.
+
+엑셀에 클라이언트에서 보이는것과 비슷한 형식으로 테두리와 엑셀을 만들고
+HashMapToJson을 통해 다시 response를 클라이언트로 넘겨준다.
+
+다시 Ajax success 함수를 타서 가져온 returnJson에 성공했다면 ~ 
+downloadURI 메소드를 실행하고 그 정보를 a href 링크를 타고 다운로드를 진행한다.
+
+다운로드가 정상적으로 실행되던 되지 않던 modal창을 호출하는데...
+성공했다면 excelExportModal창을 호출한다.
+실패했다면 excelExporFailedModal창을 호출함.
+경로는 webapp/html/egovframework/cmmn/excelExportFailedModal.html
+
+
+업로드======================================
+검침정보 추가 버튼을 누르게되면 id가 billData-fUpload라는 모달 div창을 열어준다.
+동시에 billMgnt.js 의 fn_initFileUpload() 를 수행하게되는데
+modal 안의 input 값을
+다 가져오고
+input file 을 통해 파일 을 불러온다.
+
+모든 작업을 마치고 등록을 누르게 되면
+fn_uploadBillInformation()을 부른다. (마찬가지 billMgnt.js)
+파일 확인작업을 수행한다
+
+그다음에 Ajax 처리 진행
+paramDataset에 hidden값을 넣어주고
+적용월 문자열로 치환해줌
+string 문자열로 Post 넘기고
+주소값은 '/wfn/dm/billMgnt/checkMonthDataExist.do',
+로 넘긴다.
+
+java단에서 @RequestMapping 에 저 주소값을 만나서
+db로 해당하는 월의 데이터가 존재하는지 확인 진행
+있으면 Map으로 Key, Value 받아옴
+그 후 response로 json결과값을 전송함
+
+다시 AJAX처리 돌아와서 success 단 실행
+존재값여부 로직 수행
+
+1부터 8까지 진행 다른 do로 가면서 계속 업로드 ajax 처리 진행...
+
+loadjqgrid 수행 (모든 grid) 클리어
+displaysetting() 수행 (보이는 화면 바꿔주는듯?)
+showExcelSaveModal()  수행 엑셀 저장된거 호출 해서 업로드가 진행됨
