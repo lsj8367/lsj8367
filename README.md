@@ -1,5 +1,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lsj8367)](https://velog.io/@lsj8367)
 
+이전한 깃허브 블로그 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsj8367%2Flsj8367.github.io&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23555555&title=Today+%2F+Total&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Velog 최신글
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lsj8367)](https://velog-readme-stats.vercel.app/api/redirect?name=lsj8367)
