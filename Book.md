@@ -6,6 +6,7 @@
 - 8월 : [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴](http://www.yes24.com/Product/Goods/9179120)
 - 9월 : [리팩토링 (마틴 파울러)](http://www.yes24.com/Product/Goods/267290), [Effective Java 3/E](http://www.yes24.com/Product/Goods/65551284?OzSrank=1)
 - 10월 : [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)
+- 10월 : [클린코드](http://www.yes24.com/Product/Goods/11681152)
 
 ## 스터디 책
 - 7월 : [자바 ORM 표준 JPA 프로그래밍(스터디)](http://www.yes24.com/Product/Goods/19040233)
@@ -15,7 +16,6 @@
 
 
 ## 예정 책 목록
-- [클린코드](http://www.yes24.com/Product/Goods/11681152)
 - [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.yes24.com/Product/Goods/90640081)
 - [토비의 스프링](http://www.yes24.com/Product/Goods/7516911)
 - [모던 자바 인 액션](http://www.yes24.com/Product/Goods/77125987)
