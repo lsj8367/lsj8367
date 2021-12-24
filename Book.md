@@ -7,7 +7,8 @@
 - 9월 : [리팩토링 (마틴 파울러)](http://www.yes24.com/Product/Goods/267290), [Effective Java 3/E](http://www.yes24.com/Product/Goods/65551284?OzSrank=1)
 - 10월 : [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)
 - 10월 : [클린코드](http://www.yes24.com/Product/Goods/11681152)
-- 11월 : [모던 자바 인 액션](http://www.yes24.com/Product/Goods/77125987)
+- 11월 : [만들면서 배우는 클린 아키텍처](http://www.yes24.com/Product/Goods/105138479)
+- 12월 : [모던 자바 인 액션](http://www.yes24.com/Product/Goods/77125987)
 
 ## 스터디 책
 - 7월 : [자바 ORM 표준 JPA 프로그래밍(스터디)](http://www.yes24.com/Product/Goods/19040233)
@@ -23,3 +24,4 @@
 - [오브젝트](http://www.yes24.com/Product/Goods/74219491)
 - [클린 아키텍처](http://www.yes24.com/Product/Goods/77283734)
 - [더 많은 책 목록](https://www.notion.so/2021-de02598a8b5d4ab5a9d1c7f9aa069e3f)
+- [개발자 필독서](https://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42768)
