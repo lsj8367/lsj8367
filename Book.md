@@ -10,10 +10,12 @@
 - 11월 : [만들면서 배우는 클린 아키텍처](http://www.yes24.com/Product/Goods/105138479)
 - 12월 : [모던 자바 인 액션](http://www.yes24.com/Product/Goods/77125987)
 
-## 스터디 책
+### 스터디 책
 - 7월 : [자바 ORM 표준 JPA 프로그래밍(스터디)](http://www.yes24.com/Product/Goods/19040233)
-- 9월 : [밑바닥부터 만드는 컴퓨팅 시스템](http://www.yes24.com/Product/Goods/71129079)
-- 10월 : [HTTP 완벽 가이드](http://www.yes24.com/Product/Goods/15381085)
+- 9월 ~ 12월 : [HTTP 완벽 가이드](http://www.yes24.com/Product/Goods/15381085)
+
+## 2022년
+- 1월 : [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261024&orderClick=LEa&Kc=)
 
 
 
