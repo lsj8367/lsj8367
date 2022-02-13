@@ -16,13 +16,12 @@
 
 ## 2022년
 - 1월 : [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261024&orderClick=LEa&Kc=)
-
+- 2월 : [함께 자라기](http://www.yes24.com/Product/Goods/67350256)
 
 
 ## 예정 책 목록
 - [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.yes24.com/Product/Goods/90640081)
 - [토비의 스프링](http://www.yes24.com/Product/Goods/7516911)
-- [테스트 주도 개발](http://www.yes24.com/Product/Goods/12246033?OzSrank=1)
 - [오브젝트](http://www.yes24.com/Product/Goods/74219491)
 - [클린 아키텍처](http://www.yes24.com/Product/Goods/77283734)
 - [더 많은 책 목록](https://www.notion.so/2021-de02598a8b5d4ab5a9d1c7f9aa069e3f)
