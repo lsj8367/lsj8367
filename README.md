@@ -3,7 +3,9 @@
 ![내 이름](https://capsule-render.vercel.app/api?type=waving&color=random&height=180&section=footer&text=Seung%20Jae%20Lee&fontColor=ffffff&fontSize=70)
 
 ### 블로그
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lsj8367.github.io/)](https://lsj8367.github.io/)
+[![Tech Blog Badge](https://velog-readme-stats.vercel.app/api/badge?name=lsj8367)](https://velog.io/@lsj8367)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lsj8367&color=dark)](https://velog.io/@lsj8367)
 
 ![lsj8367's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj8367&show_icons=true&theme=gruvbox)
 
