@@ -9,4 +9,4 @@
 
 ![lsj8367's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj8367&show_icons=true&theme=gruvbox)
 
-![profile 3d](./profile-3d-contrib/profile-night-rainbow.svg)
+![profile 3d](./profile-3d-contrib/profile-gitblock.svg)
