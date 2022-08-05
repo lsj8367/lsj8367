@@ -2,7 +2,10 @@
 
 ![내 이름](https://capsule-render.vercel.app/api?type=waving&color=random&height=180&section=footer&text=Seung%20Jae%20Lee&fontColor=ffffff&fontSize=70)
 
-### 블로그
+### 새 블로그 (이전 블로그에서 글 퍼올리는중 😱)
+[바로가기](https://lsj8367.tistory.com)
+
+### 이전 블로그
 [![Tech Blog Badge](https://velog-readme-stats.vercel.app/api/badge?name=lsj8367)](https://velog.io/@lsj8367)
 
 [![Velog's 최신 포스팅](https://velog-readme-stats.vercel.app/api?name=lsj8367&color=dark)](https://velog.io/@lsj8367)
