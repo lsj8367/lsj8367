@@ -8,10 +8,6 @@
 ### 이전 블로그
 [![Tech Blog Badge](https://velog-readme-stats.vercel.app/api/badge?name=lsj8367)](https://velog.io/@lsj8367)
 
-[![Velog's 최신 포스팅](https://velog-readme-stats.vercel.app/api?name=lsj8367&color=dark)](https://velog.io/@lsj8367)
-
-[![Velog 최신글](https://velog-readme-stats.vercel.app/api/list?name=lsj8367)](https://velog.io/@lsj8367) 
-
 ![lsj8367's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj8367&show_icons=true&theme=gruvbox)
 
 ![profile 3d](./profile-3d-contrib/profile-night-rainbow.svg)
