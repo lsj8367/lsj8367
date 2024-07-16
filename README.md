@@ -10,4 +10,3 @@
 
 ![lsj8367's github stats](https://github-readme-stats.vercel.app/api?username=lsj8367&show_icons=true&theme=tokyonight)
 
-![profile 3d](./profile-3d-contrib/profile-night-rainbow.svg)
